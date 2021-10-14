@@ -43,6 +43,7 @@ This series of challenges tests your knowledge about Javascript dates.
 - [Check if two dates are within 1 hour from each other](./Javascript%20dates/Check%20if%20two%20dates%20are%20within%201%20hour%20from%20each%20other.js)
 - [Return the number of days between two dates](./Javascript%20dates/Return%20the%20number%20of%20days%20between%20two%20dates.js)
 - [Calculate difference between two dates in hours, minutes, and seconds](./Javascript%20dates/Calculate%20difference%20between%20two%20dates%20in%20hours,%20minutes,%20and%20seconds.js)
+- [Return the next nearest quarter hour of a date](./Javascript%20dates/Return%20the%20next%20nearest%20quarter%20hour%20of%20a%20date.js)
 
 ## Javascript objects
 This series of challenges tests your knowledge about Javascript objects.
