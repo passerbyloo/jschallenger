@@ -5,6 +5,7 @@
 // Try not to mutate the original array
 
 function myFunction(a, n) {
-  a.unshift(n < 6 ? 0 : n);
-  return a
+//   a.unshift(n < 6 ? 0 : n);
+//   return a
+  return [n < 6 ? 0 : n, ...a];
 }
