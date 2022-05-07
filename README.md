@@ -19,6 +19,7 @@ This series of challenges covers the very basics of Javascript.
  - [Check whether a string contains another string and concatenate](./Javascript%20basics/Check%20whether%20a%20string%20contains%20another%20string%20and%20concatenate.js)
  - [Round a number to 2 decimal places](./Javascript%20basics/Round%20a%20number%20to%202%20decimal%20places.js)
  - [Find next higher natural number that is divisble by y](./Javascript%20basics/Find%20next%20higher%20natural%20number%20that%20is%20divisble%20by%20y.js)
+ - [Insert character after every n characters (backwards)](./Javascript%20basics/Insert%20character%20after%20every%20n%20characters%20(backwards).js)
  - [Split a number into its digits](./Javascript%20basics/Split%20a%20number%20into%20its%20digits.js)
  - [Find the correct word by incrementing letters in alphabet](./Javascript%20basics/Find%20the%20correct%20word%20by%20incrementing%20letters%20in%20alphabet.js)
  - [Clear up the chaos behind these strings](./Javascript%20basics/Clear%20up%20the%20chaos%20behind%20these%20strings.js)
