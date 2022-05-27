@@ -38,6 +38,8 @@ This series of challenges tests your knowledge about Javascript arrays.
  - [Return last n array elements](./Javascript%20Arrays/Return%20last%20n%20array%20elements.js)
  - [Sum up all array elements with values greater than](./Javascript%20Arrays/Sum%20up%20all%20array%20elements%20with%20values%20greater%20than.js)
  - [Remove a specific array element](./Javascript%20Arrays/Remove%20a%20specific%20array%20element.js)
+ - [Count number of elements in JavaScript array](./Javascript%20Arrays/Count%20number%20of%20elements%20in%20JavaScript%20array.js)
+ - [Count number of negative values in array](./Javascript%20Arrays/Count%20number%20of%20negative%20values%20in%20array.js)
  - [Check if all array elements are equal](./Javascript%20Arrays/Check%20if%20all%20array%20elements%20are%20equal.js)
  - [Create a range of numbers](./Javascript%20Arrays/Create%20a%20range%20of%20numbers.js)
  - [Return the longest string from an array of strings](./Javascript%20Arrays/Return%20the%20longest%20string%20from%20an%20array%20of%20strings.js)
