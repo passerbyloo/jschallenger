@@ -30,6 +30,7 @@ This series of challenges covers the very basics of Javascript.
 ## Javascript Arrays
 This series of challenges tests your knowledge about Javascript arrays.
  - [Get nth element of array](./Javascript%20Arrays/Get%20nth%20element%20of%20array.js)
+ - [Remove first n elements of an array](./Javascript%20Arrays/Remove%20first%20n%20elements%20of%20an%20array.js)
  - [Get last n elements of an array](./Javascript%20Arrays/Get%20last%20n%20elements%20of%20an%20array.js)
  - [Get first n elements of an array](./Javascript%20Arrays/Get%20first%20n%20elements%20of%20an%20array.js)
  - [Sort an array of strings alphabetically](./Javascript%20Arrays/Sort%20an%20array%20of%20strings%20alphabetically.js)
@@ -45,8 +46,10 @@ This series of challenges tests your knowledge about Javascript arrays.
  - [Return the longest string from an array of strings](./Javascript%20Arrays/Return%20the%20longest%20string%20from%20an%20array%20of%20strings.js)
  - [Define an array with conditional elements](./Javascript%20Arrays/Define%20an%20array%20with%20conditional%20elements.js)
  - [Merge an arbitrary number of arrays](./Javascript%20Arrays/Merge%20an%20arbitrary%20number%20of%20arrays.js)
+ - [Sort array by object property](./Javascript%20Arrays/Sort%20array%20by%20object%20property.js)
  - [Merge two arrays with duplicate values](./Javascript%20Arrays/Merge%20two%20arrays%20with%20duplicate%20values.js)
  - [Group array of strings by first letter.](./Javascript%20Arrays/Group%20array%20of%20strings%20by%20first%20letter.js)
+ - [Get every nth element of array](./Javascript%20Arrays/Get%20every%20nth%20element%20of%20array.js)
 
 ## Javascript Dates
 This series of challenges tests your knowledge about Javascript dates.
