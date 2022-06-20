@@ -70,6 +70,8 @@ This series of challenges tests your knowledge about Javascript objects.
 - [Accessing object properties three](./Javascript%20Objects/Accessing%20object%20properties%20three.js)
 - [Check if property exists in object](./Javascript%20Objects/Check%20if%20property%20exists%20in%20object.js)
 - [Creating Javascript objects one](./Javascript%20Objects/Creating%20Javascript%20objects%20one.js)
+- [Creating Javascript objects two](./Javascript%20Objects/Creating%20Javascript%20objects%20two.js)
+- [Creating Javascript objects three](./Javascript%20Objects/Creating%20Javascript%20objects%20three.js)
 - [Remove a property from an object](./Javascript%20Objects/Remove%20a%20property%20from%20an%20object.js)
 - [Swap object keys and values](./Javascript%20Objects/Swap%20object%20keys%20and%20values.js)
 - [Add property to each object in array](./Javascript%20Objects/Add%20property%20to%20each%20object%20in%20array.js)
