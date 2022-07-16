@@ -78,8 +78,10 @@ This series of challenges tests your knowledge about Javascript objects.
 - [Swap object keys and values](./Javascript%20Objects/Swap%20object%20keys%20and%20values.js)
 - [Add property to each object in array](./Javascript%20Objects/Add%20property%20to%20each%20object%20in%20array.js)
 - [Merge two objects with matching keys](./Javascript%20Objects/Merge%20two%20objects%20with%20matching%20keys.js)
+- [Multiply all object values by x](./Javascript%20Objects/Multiply%20all%20object%20values%20by%20x.js)
 - [Extracting information from objects](./Javascript%20Objects/Extracting%20information%20from%20objects.js)
 - [Replace empty strings in object with null values](./Javascript%20Objects/Replace%20empty%20strings%20in%20object%20with%20null%20values.js)
+- [Convert array to object with counter](./Javascript%20Objects/Convert%20array%20to%20object%20with%20counter.js)
 
 ## Javascript Sets
 This series of challenges covers the Javascript Set object.
