@@ -69,6 +69,7 @@ This series of challenges tests your knowledge about Javascript objects.
 - [Accessing object properties one](./Javascript%20Objects/Accessing%20object%20properties%20one.js)
 - [Accessing object properties three](./Javascript%20Objects/Accessing%20object%20properties%20three.js)
 - [Check if property exists in object](./Javascript%20Objects/Check%20if%20property%20exists%20in%20object.js)
+- [Check if property exists in object and is truthy](./Javascript%20Objects/Check%20if%20property%20exists%20in%20object%20and%20is%20truthy.js)
 - [Creating Javascript objects one](./Javascript%20Objects/Creating%20Javascript%20objects%20one.js)
 - [Creating Javascript objects two](./Javascript%20Objects/Creating%20Javascript%20objects%20two.js)
 - [Creating Javascript objects three](./Javascript%20Objects/Creating%20Javascript%20objects%20three.js)
