@@ -93,3 +93,7 @@ This series of challenges covers the Javascript Set object.
 - [Delete element from Set](./Javascript%20Sets/Delete%20element%20from%20Set.js)
 - [Add multiple elements to Set](./Javascript%20Sets/Add%20multiple%20elements%20to%20Set.js)
 - [Get Intersection of two Javascript Sets](./Javascript%20Sets/Get%20Intersection%20of%20two%20Javascript%20Sets.js)
+
+## DOM selector methods
+- [Select the button element on the page](./DOM%20selector%20methods/Select%20the%20button%20element%20on%20the%20page.js)
+- [Query descendent HTML elements](./DOM%20selector%20methods/Query%20descendent%20HTML%20elements.js)
