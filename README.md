@@ -97,3 +97,5 @@ This series of challenges covers the Javascript Set object.
 ## DOM selector methods
 - [Select the button element on the page](./DOM%20selector%20methods/Select%20the%20button%20element%20on%20the%20page.js)
 - [Query descendent HTML elements](./DOM%20selector%20methods/Query%20descendent%20HTML%20elements.js)
+- [Select multiple HTML elements](./DOM%20selector%20methods/Select%20multiple%20HTML%20elements.js)
+- [Query and exclude HTML elements](./DOM%20selector%20methods/Query%20and%20exclude%20HTML%20elements.js)
