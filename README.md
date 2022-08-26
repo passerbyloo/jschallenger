@@ -99,3 +99,7 @@ This series of challenges covers the Javascript Set object.
 - [Query descendent HTML elements](./DOM%20selector%20methods/Query%20descendent%20HTML%20elements.js)
 - [Select multiple HTML elements](./DOM%20selector%20methods/Select%20multiple%20HTML%20elements.js)
 - [Query and exclude HTML elements](./DOM%20selector%20methods/Query%20and%20exclude%20HTML%20elements.js)
+
+## Events and user interactions
+- [Execute function on button click](./Events%20and%20user%20interactions/Execute%20function%20on%20button%20click.js)
+- [Execute function when cursor moves onto element](./Events%20and%20user%20interactions/Execute%20function%20when%20cursor%20moves%20onto%20element.js)
