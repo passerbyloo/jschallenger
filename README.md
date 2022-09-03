@@ -103,3 +103,5 @@ This series of challenges covers the Javascript Set object.
 ## Events and user interactions
 - [Execute function on button click](./Events%20and%20user%20interactions/Execute%20function%20on%20button%20click.js)
 - [Execute function when cursor moves onto element](./Events%20and%20user%20interactions/Execute%20function%20when%20cursor%20moves%20onto%20element.js)
+- [Cursor enters and leaves element](./Events%20and%20user%20interactions/Cursor%20enters%20and%20leaves%20element.js)
+- [Move element with mouse cursor](./Events%20and%20user%20interactions/Move%20element%20with%20mouse%20cursor.js)
