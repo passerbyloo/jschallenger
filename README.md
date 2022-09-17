@@ -106,3 +106,7 @@ This series of challenges covers the Javascript Set object.
 - [Cursor enters and leaves element](./Events%20and%20user%20interactions/Cursor%20enters%20and%20leaves%20element.js)
 - [Move element with mouse cursor](./Events%20and%20user%20interactions/Move%20element%20with%20mouse%20cursor.js)
 - [Drop element into another element](./Events%20and%20user%20interactions/Drop%20element%20into%20another%20element.js)
+
+## DOM manipulation
+- [Remove element from the DOM](./DOM%20manipulation/Remove%20element%20from%20the%20DOM.js)
+- [Change id of HTML element](./DOM%20manipulation/Change%20id%20of%20HTML%20element.js)
