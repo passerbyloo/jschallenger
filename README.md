@@ -110,3 +110,7 @@ This series of challenges covers the Javascript Set object.
 ## DOM manipulation
 - [Remove element from the DOM](./DOM%20manipulation/Remove%20element%20from%20the%20DOM.js)
 - [Change id of HTML element](./DOM%20manipulation/Change%20id%20of%20HTML%20element.js)
+
+## DOM fundamentals
+- [Check the checkbox](./DOM%20fundamentals/Check%20the%20checkbox.js)
+- [Get full-name from inputs](./DOM%20fundamentals/Get%20full-name%20from%20inputs.js)
