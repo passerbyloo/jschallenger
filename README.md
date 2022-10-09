@@ -114,3 +114,4 @@ This series of challenges covers the Javascript Set object.
 ## DOM fundamentals
 - [Check the checkbox](./DOM%20fundamentals/Check%20the%20checkbox.js)
 - [Get full-name from inputs](./DOM%20fundamentals/Get%20full-name%20from%20inputs.js)
+- [Pop the balloons](./DOM%20fundamentals/Pop%20the%20balloons.js)
