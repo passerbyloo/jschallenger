@@ -35,6 +35,7 @@ This series of challenges tests your knowledge about Javascript arrays.
  - [Get first n elements of an array](./Javascript%20Arrays/Get%20first%20n%20elements%20of%20an%20array.js)
  - [Sort an array of strings alphabetically](./Javascript%20Arrays/Sort%20an%20array%20of%20strings%20alphabetically.js)
  - [Sort an array of numbers in descending order](./Javascript%20Arrays/Sort%20an%20array%20of%20numbers%20in%20descending%20order.js)
+ - [Calculate the sum of an array of numbers](./Javascript%20Arrays/Calculate%20the%20sum%20of%20an%20array%20of%20numbers.js)
  - [Return the average of an array of numbers](./Javascript%20Arrays/Return%20the%20average%20of%20an%20array%20of%20numbers.js)
  - [Return last n array elements](./Javascript%20Arrays/Return%20last%20n%20array%20elements.js)
  - [Sum up all array elements with values greater than](./Javascript%20Arrays/Sum%20up%20all%20array%20elements%20with%20values%20greater%20than.js)
