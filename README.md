@@ -9,6 +9,7 @@ This series of challenges covers the very basics of Javascript.
  - [Remove first n characters of string](./Javascript%20Basics/Remove%20first%20n%20characters%20of%20string.js)
  - [Get last n characters of string](./Javascript%20Basics/Get%20last%20n%20characters%20of%20string.js)
  - [Get first n characters of string](./Javascript%20Basics/Get%20first%20n%20characters%20of%20string.js)
+ - [Find the position of one string in another](./Javascript%20Basics/Find%20the%20position%20of%20one%20string%20in%20another.js)
  - [Extract first half of string](./Javascript%20Basics/Extract%20first%20half%20of%20string.js)
  - [Basic JavaScript math operators](./Javascript%20Basics/Basic%20JavaScript%20math%20operators.js)
  - [Remove last n characters of string](./Javascript%20Basics/Remove%20last%20n%20characters%20of%20string.js)
